@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biwott21
-- 👀 I’m interested in 
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on exciting and challenging projects
 - 📫 How to reach me email @ oglabiwott3@gmail.com
